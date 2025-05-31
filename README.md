@@ -149,4 +149,4 @@ curl http://localhost:3000/api/customers/total
 
 ---
 
-Jika ada pertanyaan atau kendala, silakan hubungi pengembang proyek. 😊
+Jika ada pertanyaan atau kendala, silakan hubungi pengembang proyek Kelompok 6. 😊
